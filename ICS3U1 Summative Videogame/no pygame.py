@@ -1,4 +1,8 @@
+# Name: Yusra Hassan
+# Date: October 30, 2020
+# Class: ICS3U1-02
 # Description : Only-input version
+# Note: This version asks for the letter first, icicle hits are random and 20 is the goal
 
 import random
 
