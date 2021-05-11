@@ -2,8 +2,7 @@
 # Date: Edits = Nov.10 - 11, 2020 (game = Oct 28 - Nov.9)
 # Class: ICS3U1-02
 # Description: Snowball Strike
-
-# Changes: Collision detection with icicles, better hit timing, indication of blockRowsChosen, snowflakes on menu, slight changes with colour codes, an added challenge option, menu button replacing start button in how to play, better game ending timing
+# Changes: Collision detection with icicles, better hit timing, indication of blockRowsChosen, menu design, slight changes with colour codes, an added challenge option, menu button replacing start button in how to play, better game ending timing
 
 # Start-Up
 import pygame, random, math
